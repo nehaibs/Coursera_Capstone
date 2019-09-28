@@ -1,0 +1,7 @@
+#this notebook is mainly used for capstone projects of the coursera
+
+import pandas as pd
+
+import Numpy as np
+
+print("Hello CApstone Project")
